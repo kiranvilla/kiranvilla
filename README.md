@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @kiranvilla
 - 👀 I’m interested in Programing, AI
-- 🌱 I’m currently learning Node
+- 🌱 I’m currently learning Backend Technologies
+<!--
 - 💞️ I’m looking to collaborate on Vue, React, JavaScript and Node Projects
+-->
 - 📫 How to reach me ... kiranvilla1234@gmail.com
 
 <!---
